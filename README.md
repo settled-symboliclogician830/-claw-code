@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://star-history.com/#instructkr/claw-code&Date">
+  <a href="https://star-history.com/#raks0078/-claw-code&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=instructkr/claw-code&type=Date" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=raks0078/-claw-code&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=raks0078/-claw-code&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=raks0078/-claw-code&type=Date" width="600" />
     </picture>
   </a>
 </p>
@@ -27,7 +27,7 @@
 </p>
 
 > [!IMPORTANT]
-> **Rust port is now in progress** on the [`dev/rust`](https://github.com/instructkr/claw-code/tree/dev/rust) branch and is expected to be merged into main today. The Rust implementation aims to deliver a faster, memory-safe harness runtime. Stay tuned — this will be the definitive version of the project.
+> **Rust port is now in progress** on the [`dev/rust`](https://github.com/raks0078/-claw-code/tree/dev/rust) branch and is expected to be merged into main today. The Rust implementation aims to deliver a faster, memory-safe harness runtime. Stay tuned — this will be the definitive version of the project.
 
 > If you find this work useful, consider [sponsoring @instructkr on GitHub](https://github.com/sponsors/instructkr) to support continued open-source harness engineering research.
 
@@ -41,7 +41,7 @@ The whole thing was orchestrated end-to-end using [oh-my-codex (OmX)](https://gi
 
 The result is a clean-room Python rewrite that captures the architectural patterns of Claude Code's agent harness without copying any proprietary source. I'm now actively collaborating with [@bellman_ych](https://x.com/bellman_ych) — the creator of OmX himself — to push this further. The basic Python foundation is already in place and functional, but we're just getting started. **Stay tuned — a much more capable version is on the way.**
 
-https://github.com/instructkr/claw-code
+https://github.com/raks0078/-claw-code
 
 ![Tweet screenshot](assets/tweet-screenshot.png)
 
